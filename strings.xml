@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hdr_processing">Unable to switch lens. There is a photo processing. Try again later.</string>
-    <string name="three_cameras">Unable to switch lens. You system does not support the auxiliary rear lens.</string>
-    <string name="exposure_title">Exposure compensation</string>
-    <string name="pref_screen_manual_focus_title">Auxiliary camera</string>
-    <string name="pref_checkbox_mf_enabled_auto">Main</string>
-    <string name="pref_checkbox_mf_enabled_macro">Telephoto</string>
-    <string name="pref_checkbox_mf_enabled_portrait">Wide</string>
-    <string name="pref_mf_on_title">Show buttons</string>
-    <string name="pref_ehn_awb_off">Off</string>
+    <string name="hdr_processing">无法切换镜头，有照片正在处理，稍后再试。</string>
+    <string name="three_cameras">无法切换镜头，您的系统不支后置辅助镜头。</string>
+    <string name="exposure_title">曝光补偿</string>
+    <string name="pref_screen_manual_focus_title">副摄</string>
+    <string name="pref_checkbox_mf_enabled_auto">主摄</string>
+    <string name="pref_checkbox_mf_enabled_macro">长焦镜头</string>
+    <string name="pref_checkbox_mf_enabled_portrait">广角镜头</string>
+    <string name="pref_mf_on_title">显示按钮</string>
+    <string name="pref_ehn_awb_off">关闭</string>
     <string name="pref_ehn_awb_p2">Pixel 2</string>
     <string name="pref_ehn_awb_p3">Pixel 3</string>
-    <string name="pref_frames_title">HDR+ Enhanced Frames</string>
-    <string name="pref_frames_9">Low - 9 frames</string>
-    <string name="pref_frames_15">Medium - 15 frames</string>
-    <string name="pref_frames_25">High - 25 frames</string>
-    <string name="pref_ehn_awb_title">Pixel AWB in HDR+ Enhanced</string>
-    <string name="pref_screen_manual_focus_summary">Enable the 2nd and the 3rd lens</string>
-    <string name="pref_version">Info</string>
+    <string name="pref_frames_title">HDR+增强 帧数</string>
+    <string name="pref_frames_9">低 - 9 帧</string>
+    <string name="pref_frames_15">中 - 15 帧</string>
+    <string name="pref_frames_25">高 - 25 帧</string>
+    <string name="pref_ehn_awb_title">Pixel AWB 用于“”HDR+增强”</string>
+    <string name="pref_screen_manual_focus_summary">启用第二或第三个镜头</string>
+    <string name="pref_version">信息</string>
     <string name="pref_author">GCam 7.2.010 by Urnyx05</string>
-    <string name="pref_base">Based on the Google Camera version</string>
-    <string name="pref_version_number">Version : 1.9</string>
-    <string name="pref_credit">This version was built by all these devs</string>
-    <string name="pref_check_version">Check For Version</string>
-    <string name="pref_update">Check for updates and changelog</string>
-    <string name="pref_maxbright_title">Maximum screen brightness</string>
-    <string name="pref_maxbright_summary">It increases screen brightness at maximum to improve visualization in sunlight</string>
-    <string name="pref_maxexpsec_title">Astro Max Exposure Time</string>
-    <string name="pref_astro_title">Enable Astrophotography</string>
-    <string name="pref_astro_summary">It lets to take better photos in low light</string>
-    <string name="pref_enable_patcher_title">Enable lib patcher</string>
-    <string name="pref_enable_patcher_summary">If disabled, it will use default values</string>
-    <string name="lib_sharpness_title">Sharpness</string>
-    <string name="lib_luma_title">Luma denoise</string>
-    <string name="lib_chroma_title">Chroma denoise</string>
-    <string name="lib_saturation_title">Saturation</string>
-    <string name="lib_contrast_title">Contrast</string>
-    <string name="lib_group_title">Lib patcher</string>
-    <string name="lib_group_summary">It increases the quality of photos</string>
-    <string name="libpatcher_main">Back camera</string>
-    <string name="libpatcher_tele">Telephoto lens</string>
-    <string name="libpatcher_wide">Wide lens</string>
-    <string name="pref_noise_hex_375">0.375 (Default Marian)</string>
-    <string name="pref_noise_hex_1000">1.0 (Default Google)</string>
-    <string name="pref_hex_1000">1.0 (Default)</string>
-    <string name="pref_default">Default</string>
-    <string name="pref_pzoom_title">Disable zoom in portrait mode</string>
-    <string name="pref_pzoom_summary">Default zoom is 1.5x</string>
-    <string name="pref_enable_libpatcher_summary">"If disabled, it will use default values.
+    <string name="pref_base">基于 Google Camera 版本</string>
+    <string name="pref_version_number">版本 : 1.9 翻译 By Anonymous709</string>
+    <string name="pref_credit">该版本由以下所有这些开发人员构建</string>
+    <string name="pref_check_version">检查版本</string>
+    <string name="pref_update">检查更新和变更日志</string>
+    <string name="pref_maxbright_title">屏幕最大亮度</string>
+    <string name="pref_maxbright_summary">最大程度地增加屏幕亮度，以改善日光下的可视性</string>
+    <string name="pref_maxexpsec_title">天文最大曝光时间</string>
+    <string name="pref_astro_title">启用天文摄影</string>
+    <string name="pref_astro_summary">弱光下会有更好的效果</string>
+    <string name="pref_enable_patcher_title">启用 lib Patcher</string>
+    <string name="pref_enable_patcher_summary">如果禁用，将使用默认值</string>
+    <string name="lib_sharpness_title">锐度</string>
+    <string name="lib_luma_title">Luma 降噪</string>
+    <string name="lib_chroma_title">Chroma 降噪</string>
+    <string name="lib_saturation_title">饱和度</string>
+    <string name="lib_contrast_title">对比度</string>
+    <string name="lib_group_title">Lib Patcher</string>
+    <string name="lib_group_summary">精确微调参数提高照片的质量</string>
+    <string name="libpatcher_main">后置主摄</string>
+    <string name="libpatcher_tele">长焦镜头</string>
+    <string name="libpatcher_wide">广角镜头</string>
+    <string name="pref_noise_hex_375">0.375 (Marian 默认)</string>
+    <string name="pref_noise_hex_1000">1.0 (Google 默认)</string>
+    <string name="pref_hex_1000">1.0 (默认)</string>
+    <string name="pref_default">默认</string>
+    <string name="pref_pzoom_title">禁用“人像”变焦</string>
+    <string name="pref_pzoom_summary">人像模式下默认以1.5倍变焦拉近镜头</string>
+    <string name="pref_enable_libpatcher_summary">"如果禁用，将使用默认值。
 
-A few notes:
-1) These settings modify the final look of images, which means there is no best setting and should be adjusted according to your personal tastes after doing your own testing.
+一些注意事项：
+ 1）这些设置会影响图像的最终观感，这意味着没有最佳设置，应在进行自己的测试后根据您的个人喜好进行调整。
 
-2) The best way to test an option is to lower to minimum or raise to maximum and taking some test photos to see what happened.
+ 2）测试选项的最佳方法是降低到最小或升高到最大值，并拍摄一些测试照片看看它们之间的区别。
 
-3) It is recommended to modify only the Global Multipliers until you have a general understanding of what each option does in a variety of scenes. Then once you understand, you can reset Global Multipliers to Default then tweak Wavelet Denoise Levels for a finer control of Denoise parameters to your liking.
+ 3）建议您仅修改全局乘数，直到您大致了解每个选项在各种场景中的作用。 之后，您可以将“全局乘数”重置为“默认值”，最后调整“小波降噪级别”，以根据自己的喜好更好地控制降噪参数。
 
-4) When Denoise parameters are lowered below 1.0, you might need to lower Sharpness to compensate for sharpening artifacts (bright halos around edges). The opposite is true if raising Denoise parameters higher than 1.0.
+ 4）当“降噪”参数降低到1.0以下时，您可能需要降低“锐度”以补偿锐化的伪像（边缘周围的明亮光晕）。 如果将“降噪”参数提高到1.0以上，则相反。
 
-5) This is a fast explanation of settings to edit tone curve.
-   - Dark Point: This is the leftmost starting point on the tonecurve. The Dark Point values impact the Y axis, and will move this starting point up the amount specified.
+ 5）以下编辑色调曲线的设置的简述。
+    -暗点：这是音调曲线上最左边的起点。 暗点值会影响Y轴，并将此起点上移指定的数量。
 
-   - White Point: This is the rightmost point on the tonecurve. The White Point values impact the Y axis, and move this end point down the amount specified.
+    -白点：这是音调曲线上最右边的点。 白点值会影响Y轴，并将此端点向下移动指定的数量。
 
-   - Shadows: These values impact the lower curve half. Positive values push the lower half of the curve up, and negative values pull it down.
+    -阴影：这些值影响曲线的下半部分。 正值将曲线的下半部分向上推动，负值将其向下推动。
 
-   - Highlights: These values impact the upper curve half. Like Shadows, positive values push it up, and negative values pull it down."</string>
-    <string name="lib_fine_l1_title">Level 1 (Fine Details)</string>
-    <string name="lib_fine_l2_title">Level 2 (Rough Surfaces)</string>
-    <string name="lib_fine_l3_title">Level 3 (Edges)</string>
-    <string name="lib_fine_l4_title">Level 4 (Smooth Surfaces)</string>
-    <string name="lib_wavelet_luma_title">Wavelet Luma Denoise Levels (Factors of Global)</string>
-    <string name="lib_wavelet_chroma_title">Wavelet Chroma Denoise Levels (Factors of Global)</string>
-    <string name="lib_tonecurve_title">Tone Curve</string>
-    <string name="lib_tonecurve_on_title">Enable Tone Curve</string>
-    <string name="lib_pdarks_title">Dark Point</string>
-    <string name="lib_pwhites_title">White Point</string>
-    <string name="lib_darks_title">Shadows (Lower Curve Half)</string>
-    <string name="lib_whites_title">Highlights (Upper Curve Half)</string>
-    <string name="pref_libcurve_moreinfo_title">Tap here to learn more</string>
-    <string name="pref_aemode_back_title">Back camera</string>
-    <string name="pref_aemode_front_title">Front camera</string>
-    <string name="pref_aemode_title">ISO/Exposure Time HDR+</string>
-    <string name="pref_aemode_0">Automatic</string>
-    <string name="pref_aemodef_0">Automatic</string>
-    <string name="pref_exposure_max_time_title">Max. Exposure Time</string>
-    <string name="pref_exposure_max_time_0">0.3 sec</string>
-    <string name="pref_exposure_max_time_1">0.5 sec</string>
-    <string name="pref_exposure_max_time_2">1 sec</string>
-    <string name="pref_exposure_max_time_3">3 sec</string>
-    <string name="pref_exposure_max_time_4">0.6 * Max. Exposure Time</string>
-    <string name="pref_exposure_max_time_5">Max. Exposure Time</string>
-    <string name="exp_b_title">Back camera</string>
-    <string name="exp_f_title">Front camera</string>
-    <string name="pref_aemode_category_title">ISO/Exposure Time</string>
-    <string name="pref_aemode_5">ISO 100/Time max</string>
-    <string name="pref_aemode_summary">It lets to manually adjust the values of exposure depending on the amount of light</string>
-    <string name="pref_4k_timelapse_title">4K TimeLapse</string>
-    <string name="pref_4k_timelapse_summary">Uses more storage.</string>
-    <string name="pref_google_photos_title">Enable Google Photos</string>
-    <string name="pref_google_photos_summary">Use as camera gallery Google Photos with advanced features.</string>
+    -高光：这些值影响曲线的上半部分。 与“阴影”一样，正值将其向上推，负值将其向下推。"</string>
+    <string name="lib_fine_l1_title">Level 1 (精细)</string>
+    <string name="lib_fine_l2_title">Level 2 (粗糙)</string>
+    <string name="lib_fine_l3_title">Level 3 (锐利)</string>
+    <string name="lib_fine_l4_title">Level 4 (平滑)</string>
+    <string name="lib_wavelet_luma_title">小波 Luma 降噪 (全局乘数)</string>
+    <string name="lib_wavelet_chroma_title">小波 Chroma 降噪 (全局乘数)</string>
+    <string name="lib_tonecurve_title">色调曲线</string>
+    <string name="lib_tonecurve_on_title">启用色调曲线</string>
+    <string name="lib_pdarks_title">暗点</string>
+    <string name="lib_pwhites_title">白点</string>
+    <string name="lib_darks_title">阴影 (下半曲线)</string>
+    <string name="lib_whites_title">高光 (上半曲线)</string>
+    <string name="pref_libcurve_moreinfo_title">点击此处了解更多</string>
+    <string name="pref_aemode_back_title">后置摄像头</string>
+    <string name="pref_aemode_front_title">前置摄像头</string>
+    <string name="pref_aemode_title">感光度/曝光时间</string>
+    <string name="pref_aemode_0">自动</string>
+    <string name="pref_aemodef_0">自动</string>
+    <string name="pref_exposure_max_time_title">最长曝光时间</string>
+    <string name="pref_exposure_max_time_0">0.3 秒</string>
+    <string name="pref_exposure_max_time_1">0.5 秒</string>
+    <string name="pref_exposure_max_time_2">1 秒</string>
+    <string name="pref_exposure_max_time_3">3 秒</string>
+    <string name="pref_exposure_max_time_4">0.6 * 最长曝光时间</string>
+    <string name="pref_exposure_max_time_5">最长曝光时间</string>
+    <string name="exp_b_title">后置摄像头</string>
+    <string name="exp_f_title">前置摄像头</string>
+    <string name="pref_aemode_category_title">感光度/曝光时间</string>
+    <string name="pref_aemode_5">ISO 100/最长曝光</string>
+    <string name="pref_aemode_summary">包含了自动快门时间和手动快门时间/感光度，选择“自动”时相机会根据测光结果自动匹配合理的快门时间</string>
+    <string name="pref_4k_timelapse_title">4K 延时摄影</string>
+    <string name="pref_4k_timelapse_summary">使用更多存储空间。</string>
+    <string name="pref_google_photos_title">启用 Google Photos</string>
+    <string name="pref_google_photos_summary">具有高级功能的“Google 相册”作为相机中的照片预览。</string>
 </resources>
